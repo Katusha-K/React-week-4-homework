@@ -62,7 +62,7 @@ export default function App() {
           <input
             type="search"
             onChange={displayCity}
-            placeholder="Enter the city..."
+            placeholder="Enter your city..."
           />
           <input type="submit" value="Search" />
         </form>
