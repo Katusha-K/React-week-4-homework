@@ -68,13 +68,13 @@ export default function App() {
         </form>
         <small>
           <a
-            href="https://github.com/Katusha-K/Weather-Vanilla-app"
+            href="https://github.com/Katusha-K/React-week-4-homework"
             target="_blank"
             rel="noreferrer"
           >
             Open-source code
           </a>
-          by Katia Kanievska
+          , by Katia Kanievska
         </small>
       </div>
     );
